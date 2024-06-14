@@ -8,6 +8,7 @@ In the rapidly growing travel and tourism industry, travelers are faced with an 
 
 We collected open data from https://www.cs.cmu.edu/~jiweil/html/hotel-review.html which has 1000 hotel information and 8lakhs user reviews on the hotel. we transformed the data into combined objects of reviews and hotel data which has following stucture:
 
+```json
 {
   "_id": {
     "$oid": "666be4e911abad68f7af88aa"
@@ -55,6 +56,7 @@ We collected open data from https://www.cs.cmu.edu/~jiweil/html/hotel-review.htm
     "name": "Hotel Beacon"
   }
 }
+```
 
 We have converted huge data set into 800+ different files each containing 1000 reviews. so that the data is easy to index during RAG.
 
