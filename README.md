@@ -65,7 +65,7 @@ We have converted huge data set into 800+ different files each containing 1000 r
 We have used azure open ai playground to deploy gpt 3.5 turbo model and datasource with upload options into the storage account. We have give the system a message of "You are an AI assistant that helps people find information on hotels based on datasource provided"
 
 <img width="1783" alt="image" src="https://github.com/manojk89/openaihackathoneyjune10-group1/assets/172774224/94f2586c-b702-4816-abc1-dbb5bbb86578">
-![image](https://github.com/manojk89/openaihackathoneyjune10-group1/assets/172774224/226face7-cf36-4ee5-832d-fecafad3945d)
+<img width="1787" alt="image" src="https://github.com/manojk89/openaihackathoneyjune10-group1/assets/172774224/226face7-cf36-4ee5-832d-fecafad3945d">
 <img width="1787" alt="image" src="https://github.com/manojk89/openaihackathoneyjune10-group1/assets/172774224/71928cf3-622e-4f08-b2cb-6381d7be52ed">
 
 
